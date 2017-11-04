@@ -1,0 +1,5 @@
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PWD"
+
+#define MQTT_HOST "mosquitto.host"
+#define MQTT_PORT 1883
